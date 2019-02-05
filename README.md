@@ -21,9 +21,9 @@
   This command also changes the PWD environment variable.  
 - clr:
   Clear the screen.    
-- dir: <directory>  
+- dir: <directory>
   List the contents of directory <directory>.  
-  If the <directory> argument is not present, report contents of current directory.    
+  If the <directory> argument is not present, report contents of current directory.
 - environ:
   List all the environment strings.    
 - echo: <comment>
