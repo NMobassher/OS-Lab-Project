@@ -15,24 +15,24 @@
 
 <Commands>
   
-- cd <directory>
+- cd: <directory>
   Change the current default directory to <directory>.
   If the <directory> argument is not present, report the current directory.
   This command also changes the PWD environment variable.  
-- clr
+- clr:
   Clear the screen.    
-- dir <directory>  
+- dir: <directory>  
   List the contents of directory <directory>.  
   If the <directory> argument is not present, report contents of current directory.    
-- environ
+- environ:
   List all the environment strings.    
-- echo <comment>
+- echo: <comment>
   Display <comment> on the display followed by a new line.    
-- help
+- help:
   Display the user manual using the 'more' filter.    
 - pause
   Pause operation of the shell until 'Enter' is pressed.    
-- quit
+- quit:
   Quit the shell.    
 - SHELL environment variable is set to be shell=<pathname>/myshell where
   <pathname>/myshell is the full path for the shell executable
