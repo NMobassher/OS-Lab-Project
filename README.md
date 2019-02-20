@@ -1,4 +1,11 @@
-# OS-Lab-Project
+# OS-Lab-Project  
+Authors  
+Group 9  
+Matthew Cardy-100489683  
+Muhtasim Chowdhury  
+Nafis Mobassher  
+Sakib Shahriyar  
+
 <Usage>
 - Invoke without a command line argument:
   ./myshell
